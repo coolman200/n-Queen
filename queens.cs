@@ -1,6 +1,6 @@
 void Main()
 {
-    var n = 13;
+    var n = 4;
     var solution = Solve(n);
     Print(solution);
 }
